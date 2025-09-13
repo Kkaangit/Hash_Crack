@@ -21,8 +21,8 @@ Basit bir Bash script'iyle bir hash'in karşılığını (password) bir wordlist
 Script'i indirdikten sonra çalıştırılabilir hale getirmek için terminalde repo dizininde şu komutu çalıştır:
 
 ```bash
-chmod +x hash_cracker.sh
+chmod +x Hash_Crack.sh
 ```
 ##Kullanım
 ```bash
-./hash_cracker.sh <hash> <wordlist>
+./Hash_Crack.sh <hash> <wordlist>
