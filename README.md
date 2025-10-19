@@ -23,6 +23,6 @@ Script'i indirdikten sonra çalıştırılabilir hale getirmek için terminalde 
 ```bash
 chmod +x Hash_Crack.sh
 ```
-##Kullanım
+## Kullanım
 ```bash
 ./Hash_Crack.sh <hash> <wordlist>
